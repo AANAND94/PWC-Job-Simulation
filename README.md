@@ -67,16 +67,16 @@ Task 3
 Diversity and Inclusion Analysis
 
 KPIs are:
-No of men - 295
-No of women - 205
-No of leavers - 47
-% employees promoted (FY21) - 10.2%
-% of women promoted - 20%
-% of hires men - 59%
-% of hires women - 41%
-% turnover - Female (11%), Men (9%)
-Average performance rating: Men (2.41)
-Average Performance rating: Women (2.42)
+- No of men - 295
+- No of women - 205
+- No of leavers - 47
+- % employees promoted (FY21) - 10.2%
+- % of women promoted - 20%
+- % of hires men - 59%
+- % of hires women - 41%
+- % turnover - Female (11%), Men (9%)
+- Average performance rating: Men (2.41)
+- Average Performance rating: Women (2.42)
 
 Insights:
 - Women are being promoted at a higher rate than the overall average.

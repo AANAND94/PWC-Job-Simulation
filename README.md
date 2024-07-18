@@ -67,9 +67,9 @@ Task 3
 Diversity and Inclusion Analysis
 
 KPIs are:
-# of men - 295
-# of women - 205
-# of leavers - 47
+No of men - 295
+No of women - 205
+No of leavers - 47
 % employees promoted (FY21) - 10.2%
 % of women promoted - 20%
 % of hires men - 59%
